@@ -5,7 +5,7 @@ Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendara
 
 ---
 
-## 👨‍💻 Anggota Kelompok 7 – Kelas C SI 2024
+## 👨‍💻 Anggota Kelompok 7 
 
 | Nama Lengkap              | NPM           |
 |---------------------------|---------------|
@@ -29,7 +29,7 @@ Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendara
 
 ---
 
-## 🧱 Struktur Tabel (Ringkasan)
+## 🧱 Struktur Tabel
 
 | Tabel            | Kolom Utama                                         |
 |------------------|------------------------------------------------------|
@@ -45,13 +45,6 @@ Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendara
 ---
 
 ## 💻 Cara Menjalankan Program
-
-### 🛠️ Persiapan
-- Install XAMPP/MySQL untuk setup database.
-- Buat database dan import file `struktur.sql` dari folder database.
-- Pastikan Java JDK terinstall dan file koneksi DB (`DBConnection.java`) sudah disesuaikan.
-
-### 🚀 Langkah-langkah:
 
 #### 1️⃣ Compile Program
 ```bash
@@ -159,14 +152,9 @@ DELIMITER ;
 
 ---
 
-## 🔗 Repositori GitHub
-
-📎 [FP-FINAL-KELOMPOK-7-C-24](https://github.com/kmsfthar/FP-FINAL-KELOMPOK-7-C-24.git)
-
----
 
 ## 🏁 Lisensi
 
-Proyek ini disusun untuk keperluan akademik pada mata kuliah **Basis Data**. Bebas digunakan untuk pembelajaran. 🚀
+Proyek ini disusun untuk keperluan Final Project EAS pada mata kuliah **Basis Data**. Bebas digunakan untuk pembelajaran. 🚀
 
 ---
