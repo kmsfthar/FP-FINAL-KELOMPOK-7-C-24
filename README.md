@@ -67,7 +67,7 @@ java -cp ".:mysql-connector-java-8.0.xx.jar" Main
 | Kelola jenis servis (CRUD)    | Lihat riwayat booking              |
 | Konfirmasi pembayaran         | Cek jadwal booking       |
 | Laporan servis (3 jenis)      |           |
-| Lihat Booking Aktif      |           |
+| Lihat Daftar Booking Aktif      |         |
 
 ---
 
