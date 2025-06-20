@@ -1,11 +1,10 @@
-
-# 🔧 Sistem Booking Servis Bengkel Mobil 🚘
+# 🚗 Sistem Booking Servis Bengkel Mobil 
 
 Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendaraan secara digital di bengkel. Mulai dari pencatatan pelanggan, mobil, teknisi, hingga proses booking dan pembayaran secara efisien dan otomatis.
 
 ---
 
-## 👨‍💻 Anggota Kelompok 7 – Kelas C SI 2024
+## 👨‍💻 Anggota Kelompok 7 
 
 | Nama Lengkap              | NPM           |
 |---------------------------|---------------|
@@ -29,7 +28,7 @@ Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendara
 
 ---
 
-## 🧱 Struktur Tabel (Ringkasan)
+## 🧱 Struktur Tabel
 
 | Tabel            | Kolom Utama                                         |
 |------------------|------------------------------------------------------|
@@ -46,13 +45,6 @@ Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendara
 
 ## 💻 Cara Menjalankan Program
 
-### 🛠️ Persiapan
-- Install XAMPP/MySQL untuk setup database.
-- Buat database dan import file `struktur.sql` dari folder database.
-- Pastikan Java JDK terinstall dan file koneksi DB (`DBConnection.java`) sudah disesuaikan.
-
-### 🚀 Langkah-langkah:
-
 #### 1️⃣ Compile Program
 ```bash
 javac -cp ".:mysql-connector-java-8.0.xx.jar" Main.java
@@ -68,24 +60,13 @@ java -cp ".:mysql-connector-java-8.0.xx.jar" Main
 ---
 
 ## 🖥️ Menu Utama Program
-
 | Mode Admin                     | Mode Pelanggan              |
 |-------------------------------|-----------------------------|
-| Melihat daftar pelanggan      | Registrasi/Login            |
-| **Melihat daftar booking aktif** | Tambah mobil              |
-| Kelola teknisi (CRUD)         | Booking servis              |
-| Kelola jenis servis (CRUD)    | Lihat riwayat booking       |
-| Konfirmasi pembayaran         | Cek jadwal booking          |
-| Laporan servis (3 jenis)      |                             |
-
-
-| Mode Admin                     | Mode Pelanggan              |
-|-------------------------------|-----------------------------|
-| Melihat daftar pelanggan      | Registrasi/Login            |
-| Kelola teknisi (CRUD)         | Tambah mobil                |
-| Kelola jenis servis (CRUD)    | Booking servis              |
-| Konfirmasi pembayaran         | Lihat riwayat booking       |
-| Laporan servis (3 jenis)      | Cek jadwal booking          |
+| Melihat daftar pelanggan      | Tambah mobil       |
+| Kelola teknisi (CRUD)         | Booking servis                |
+| Kelola jenis servis (CRUD)    | Lihat riwayat booking              |
+| Konfirmasi pembayaran         | Cek jadwal booking       |
+| Laporan servis (3 jenis)      |           |
 
 ---
 
@@ -190,14 +171,8 @@ DELIMITER ;
 
 ---
 
-## 🔗 Repositori GitHub
-
-📎 [FP-FINAL-KELOMPOK-7-C-24](https://github.com/kmsfthar/FP-FINAL-KELOMPOK-7-C-24.git)
-
----
-
 ## 🏁 Lisensi
 
-Proyek ini disusun untuk keperluan akademik pada mata kuliah **Basis Data**. Bebas digunakan untuk pembelajaran. 🚀
+Proyek ini disusun untuk keperluan Final Project EAS pada mata kuliah **Basis Data**. Bebas digunakan untuk pembelajaran. 🚀
 
 ---
