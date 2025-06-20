@@ -63,7 +63,7 @@ java -cp ".:mysql-connector-java-8.0.xx.jar" Main
 | Mode Admin                     | Mode Pelanggan              |
 |-------------------------------|-----------------------------|
 | Melihat daftar pelanggan      | Tambah mobil       |
-| Lihat Daftar Riwayat Booking  | Booking servis                |
+| Lihat Daftar Riwayat Booking  | Membuat Booking servis baru            |
 | Kelola teknisi (CRUD)    | Lihat riwayat booking              |
 | Kelola jenis servis (CRUD)         | Cek jadwal booking       |
 | Konfirmasi pembayaran      |           |
