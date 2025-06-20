@@ -1,5 +1,4 @@
 # 🚗 Sistem Booking Servis Bengkel Mobil 
-
 Sistem informasi ini dirancang untuk membantu pengelolaan layanan servis kendaraan secara digital di bengkel. Mulai dari pencatatan pelanggan, mobil, teknisi, hingga proses booking dan pembayaran secara efisien dan otomatis.
 
 ---
@@ -63,7 +62,7 @@ java -cp ".:mysql-connector-java-8.0.xx.jar" Main
 | Mode Admin                     | Mode Pelanggan              |
 |-------------------------------|-----------------------------|
 | Melihat daftar pelanggan      | Tambah mobil       |
-| Lihat Daftar Riwayat Booking  | Membuat Booking servis baru            |
+| Lihat Daftar Booking Baru | Membuat Booking servis baru            |
 | Kelola teknisi (CRUD)    | Lihat riwayat booking              |
 | Kelola jenis servis (CRUD)         | Cek jadwal booking       |
 | Konfirmasi pembayaran      |           |
